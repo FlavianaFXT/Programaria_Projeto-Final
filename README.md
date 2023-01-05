@@ -1,5 +1,5 @@
 # Programaria_Projeto-Final
-Projeto elaborado como Requisito final do curso Eu Progr{amo} - do Programaria, finalizado em Setembro/2022.
+Projeto/Site elaborado como Requisito final do curso Eu Progr{amo} - do Programaria, finalizado em Setembro/2022.
 
 # A fazer:
 
