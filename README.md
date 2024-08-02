@@ -67,7 +67,7 @@ Ao final, possui no rodapé o formulário de contato da empresa.
 
 ### Estrutura de Pastas
 
-Composto por um arquivo .html, outro .css, .js e uma pasta contendo as imagens utilizadas no projeto.
+Composto por um arquivo .html, outro .css, .js e uma pasta contendo as imagens utilizadas no projeto. Além do README com a descrição de todo o processo de elaboração do projeto.
 
 
 ![image](https://github.com/user-attachments/assets/e9f7b992-a653-4672-92f3-c95ea99c8ba6)
